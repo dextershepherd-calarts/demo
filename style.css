@@ -1,0 +1,14 @@
+body {
+    background: purple;
+}
+
+h1 {
+    color: turquoise;
+    font-family: sans-serif;
+    border-bottom: 2px solid turquoise;
+}
+
+p {
+    color: aqua;
+    font-size: 2em;
+}
